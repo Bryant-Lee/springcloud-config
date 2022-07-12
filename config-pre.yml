@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: springcloud-learning
+    version: 1.0.5
